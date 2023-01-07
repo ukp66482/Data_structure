@@ -1,0 +1,12 @@
+insert 7
+insert 3
+insert 4
+insert 5
+change 5,1
+remove
+change -1,4
+insert 2
+change 2,1
+remove
+remove
+quit

@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/data structure/各章節程式碼/queue(array)/cmake-build-debug/CMakeFiles/queue_array_.dir
+/Users/ukp66482/Desktop/data structure/各章節程式碼/queue(array)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/data structure/各章節程式碼/queue(array)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/data structure/各章節程式碼/Ch1 complexity/insertion_sort(while)/cmake-build-debug/CMakeFiles/insertion_sort_while_.dir
+/Users/ukp66482/Desktop/data structure/各章節程式碼/Ch1 complexity/insertion_sort(while)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/data structure/各章節程式碼/Ch1 complexity/insertion_sort(while)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

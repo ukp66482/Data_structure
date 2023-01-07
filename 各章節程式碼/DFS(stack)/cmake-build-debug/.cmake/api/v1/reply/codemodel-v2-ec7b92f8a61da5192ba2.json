@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DFS_stack_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DFS_stack_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DFS_stack_-Debug-dd0e5710563fe518ede1.json",
+					"name" : "DFS_stack_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ukp66482/Desktop/data structure/\u5404\u7ae0\u7bc0\u7a0b\u5f0f\u78bc/DFS(stack)/cmake-build-debug",
+		"source" : "/Users/ukp66482/Desktop/data structure/\u5404\u7ae0\u7bc0\u7a0b\u5f0f\u78bc/DFS(stack)"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,5 @@
+# ninja log v5
+0	37	1663133127229509901	CMakeFiles/add_with_malloc_linked_list.dir/main.c.o	109e1d9e77c253d
+37	66	1663133127259354850	add_with_malloc_linked_list	63f3c99e85323c2d
+0	66	1666412070174333839	CMakeFiles/add_with_malloc_linked_list.dir/main.c.o	f5da328976c5fdc4
+66	114	1666412070223143916	add_with_malloc_linked_list	63f3c99e85323c2d

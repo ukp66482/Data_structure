@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "insertion_sort_while_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "insertion_sort_while_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-insertion_sort_while_-Debug-53c74e4b2078084a0379.json",
+					"name" : "insertion_sort_while_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ukp66482/Desktop/data structure/\u5404\u7ae0\u7bc0\u7a0b\u5f0f\u78bc/Ch1 complexity/insertion_sort(while)/cmake-build-debug",
+		"source" : "/Users/ukp66482/Desktop/data structure/\u5404\u7ae0\u7bc0\u7a0b\u5f0f\u78bc/Ch1 complexity/insertion_sort(while)"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

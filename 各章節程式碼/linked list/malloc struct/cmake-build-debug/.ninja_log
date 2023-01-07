@@ -1,0 +1,17 @@
+# ninja log v5
+0	223	1662882991126558646	CMakeFiles/malloc_struct.dir/main.c.o	c9f70dbb2a8f1ef5
+224	289	1662882991194610300	malloc_struct	6773c33f1491bddf
+0	215	1662883139672732998	CMakeFiles/malloc_struct.dir/main.c.o	c9f70dbb2a8f1ef5
+216	266	1662883139725741526	malloc_struct	6773c33f1491bddf
+0	41	1662883160648959877	CMakeFiles/malloc_struct.dir/main.c.o	c9f70dbb2a8f1ef5
+41	80	1662883160688644220	malloc_struct	6773c33f1491bddf
+0	43	1662883526693877771	CMakeFiles/malloc_struct.dir/main.c.o	c9f70dbb2a8f1ef5
+43	82	1662883526733744408	malloc_struct	6773c33f1491bddf
+0	212	1662883625928600380	CMakeFiles/malloc_struct.dir/main.c.o	c9f70dbb2a8f1ef5
+212	262	1662883625980137138	malloc_struct	6773c33f1491bddf
+1	46	1662883678267602786	CMakeFiles/malloc_struct.dir/main.c.o	c9f70dbb2a8f1ef5
+46	86	1662883678308480646	malloc_struct	6773c33f1491bddf
+1	38	1662883760159843425	CMakeFiles/malloc_struct.dir/main.c.o	c9f70dbb2a8f1ef5
+39	79	1662883760201850675	malloc_struct	6773c33f1491bddf
+1	209	1662883980092944992	CMakeFiles/malloc_struct.dir/main.c.o	c9f70dbb2a8f1ef5
+209	259	1662883980145352678	malloc_struct	6773c33f1491bddf

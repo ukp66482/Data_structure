@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/data structure/Ch3 stack/insert in a linked list/cmake-build-debug/CMakeFiles/insert_in_a_linked_list.dir
+/Users/ukp66482/Desktop/data structure/Ch3 stack/insert in a linked list/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/data structure/Ch3 stack/insert in a linked list/cmake-build-debug/CMakeFiles/rebuild_cache.dir

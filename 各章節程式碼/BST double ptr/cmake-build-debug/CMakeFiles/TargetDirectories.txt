@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/data structure/各章節程式碼/BST double ptr/cmake-build-debug/CMakeFiles/BST_double_ptr.dir
+/Users/ukp66482/Desktop/data structure/各章節程式碼/BST double ptr/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/data structure/各章節程式碼/BST double ptr/cmake-build-debug/CMakeFiles/rebuild_cache.dir

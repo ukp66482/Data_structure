@@ -1,0 +1,6 @@
+AVL
+insert 5
+insert 8
+search 5
+delete 5
+quit

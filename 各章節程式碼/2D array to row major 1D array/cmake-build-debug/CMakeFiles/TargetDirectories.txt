@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/data structure/各章節程式碼/Ch2 array/2D array to row major 1D array/cmake-build-debug/CMakeFiles/2D_array_to_row_major_1D_array.dir
+/Users/ukp66482/Desktop/data structure/各章節程式碼/Ch2 array/2D array to row major 1D array/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/data structure/各章節程式碼/Ch2 array/2D array to row major 1D array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

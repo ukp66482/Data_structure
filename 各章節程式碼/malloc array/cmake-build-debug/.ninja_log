@@ -1,0 +1,7 @@
+# ninja log v5
+0	56	1663213137199125475	CMakeFiles/malloc_array.dir/main.c.o	70684c683b63f78a
+57	107	1663213137250680162	malloc_array	6ebc3341fc73e6a7
+0	22	1665916253301354152	CMakeFiles/malloc_array.dir/main.c.o	6954f5df6f6eeaeb
+22	48	1665916253327227380	malloc_array	6ebc3341fc73e6a7
+0	28	1665916320144977256	CMakeFiles/malloc_array.dir/main.c.o	6954f5df6f6eeaeb
+28	53	1665916320171032773	malloc_array	6ebc3341fc73e6a7

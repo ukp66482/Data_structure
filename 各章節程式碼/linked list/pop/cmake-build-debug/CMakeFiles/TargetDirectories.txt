@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/data structure/Ch3 stack/pop/cmake-build-debug/CMakeFiles/pop.dir
+/Users/ukp66482/Desktop/data structure/Ch3 stack/pop/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/data structure/Ch3 stack/pop/cmake-build-debug/CMakeFiles/rebuild_cache.dir

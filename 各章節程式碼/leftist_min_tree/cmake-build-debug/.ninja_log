@@ -1,0 +1,13 @@
+# ninja log v5
+0	247	1667106704027064663	CMakeFiles/leftist_min_tree.dir/main.c.o	a104bcc21e005372
+248	312	1667106704094379575	leftist_min_tree	b9b1848c8ce7fd74
+0	40	1667106727593810272	CMakeFiles/leftist_min_tree.dir/main.c.o	a104bcc21e005372
+40	79	1667106727633205477	leftist_min_tree	b9b1848c8ce7fd74
+0	188	1667443942337836569	CMakeFiles/leftist_min_tree.dir/main.c.o	a104bcc21e005372
+188	257	1667443942407544285	leftist_min_tree	b9b1848c8ce7fd74
+0	29	1667443968272309819	CMakeFiles/leftist_min_tree.dir/main.c.o	a104bcc21e005372
+29	55	1667443968298389675	leftist_min_tree	b9b1848c8ce7fd74
+0	29	1667443974819973784	CMakeFiles/leftist_min_tree.dir/main.c.o	a104bcc21e005372
+30	53	1667443974844689133	leftist_min_tree	b9b1848c8ce7fd74
+0	136	1667444036706207344	CMakeFiles/leftist_min_tree.dir/main.c.o	a104bcc21e005372
+136	166	1667444036737324997	leftist_min_tree	b9b1848c8ce7fd74

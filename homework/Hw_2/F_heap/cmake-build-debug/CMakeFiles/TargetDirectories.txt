@@ -1,0 +1,3 @@
+/Users/ukp66482/Desktop/data structure/homework/Hw_2/F_heap/cmake-build-debug/CMakeFiles/F_heap.dir
+/Users/ukp66482/Desktop/data structure/homework/Hw_2/F_heap/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ukp66482/Desktop/data structure/homework/Hw_2/F_heap/cmake-build-debug/CMakeFiles/rebuild_cache.dir

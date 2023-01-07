@@ -1,0 +1,7 @@
+# ninja log v5
+0	29	1666058688924984311	CMakeFiles/BFS_adjacency_matrix.dir/main.c.o	f24635d352d6b2cf
+29	57	1666058688953577039	BFS_adjacency_matrix	9588e317f97b6a51
+0	237	1667107857477435541	CMakeFiles/BFS_adjacency_matrix.dir/main.c.o	c4a37990395ec749
+237	295	1667107857536689283	BFS_adjacency_matrix	9588e317f97b6a51
+1	42	1667107885552582821	CMakeFiles/BFS_adjacency_matrix.dir/main.c.o	c4a37990395ec749
+43	86	1667107885597972192	BFS_adjacency_matrix	9588e317f97b6a51

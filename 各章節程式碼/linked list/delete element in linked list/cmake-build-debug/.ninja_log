@@ -1,0 +1,15 @@
+# ninja log v5
+1	185	1662950087258509478	CMakeFiles/delete_element_in_linked_list.dir/main.c.o	81ef7b81b1bb2ffa
+185	249	1662950087323546855	delete_element_in_linked_list	2ad731b909d0bbc5
+1	25	1662950109048658010	CMakeFiles/delete_element_in_linked_list.dir/main.c.o	81ef7b81b1bb2ffa
+25	51	1662950109074839719	delete_element_in_linked_list	2ad731b909d0bbc5
+0	26	1662950118728025022	CMakeFiles/delete_element_in_linked_list.dir/main.c.o	81ef7b81b1bb2ffa
+26	49	1662950118752094487	delete_element_in_linked_list	2ad731b909d0bbc5
+0	25	1662950249680906290	CMakeFiles/delete_element_in_linked_list.dir/main.c.o	81ef7b81b1bb2ffa
+25	50	1662950249707141957	delete_element_in_linked_list	2ad731b909d0bbc5
+0	135	1662950891590387667	CMakeFiles/delete_element_in_linked_list.dir/main.c.o	81ef7b81b1bb2ffa
+135	165	1662950891622029524	delete_element_in_linked_list	2ad731b909d0bbc5
+0	28	1662951013734777083	CMakeFiles/delete_element_in_linked_list.dir/main.c.o	81ef7b81b1bb2ffa
+29	54	1662951013761009610	delete_element_in_linked_list	2ad731b909d0bbc5
+0	25	1662951019838316138	CMakeFiles/delete_element_in_linked_list.dir/main.c.o	81ef7b81b1bb2ffa
+25	47	1662951019860435209	delete_element_in_linked_list	2ad731b909d0bbc5

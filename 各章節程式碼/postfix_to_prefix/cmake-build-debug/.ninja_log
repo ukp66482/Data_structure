@@ -1,0 +1,27 @@
+# ninja log v5
+0	144	1666189963094736630	CMakeFiles/postfix_to_prefix.dir/main.c.o	a21e6db550ece69f
+145	190	1666189963141872546	postfix_to_prefix	d3161d9aacff6b5f
+1	173	1666190056517014171	CMakeFiles/postfix_to_prefix.dir/main.c.o	a21e6db550ece69f
+173	222	1666190056566028476	postfix_to_prefix	d3161d9aacff6b5f
+1	28	1666190069069157201	CMakeFiles/postfix_to_prefix.dir/main.c.o	a21e6db550ece69f
+28	53	1666190069094446297	postfix_to_prefix	d3161d9aacff6b5f
+1	172	1666190880073100276	CMakeFiles/postfix_to_prefix.dir/main.c.o	a21e6db550ece69f
+172	210	1666190880112860033	postfix_to_prefix	d3161d9aacff6b5f
+1	173	1666190960673743660	CMakeFiles/postfix_to_prefix.dir/main.c.o	a21e6db550ece69f
+173	230	1666190960732268139	postfix_to_prefix	d3161d9aacff6b5f
+1	141	1666191105312972713	CMakeFiles/postfix_to_prefix.dir/main.c.o	a21e6db550ece69f
+141	175	1666191105348504762	postfix_to_prefix	d3161d9aacff6b5f
+0	134	1666191123389989107	CMakeFiles/postfix_to_prefix.dir/main.c.o	a21e6db550ece69f
+135	167	1666191123423533471	postfix_to_prefix	d3161d9aacff6b5f
+0	165	1666191480737959703	CMakeFiles/postfix_to_prefix.dir/main.c.o	a21e6db550ece69f
+166	202	1666191480776082569	postfix_to_prefix	d3161d9aacff6b5f
+1	25	1666191512975188971	CMakeFiles/postfix_to_prefix.dir/main.c.o	a21e6db550ece69f
+25	52	1666191513004055290	postfix_to_prefix	d3161d9aacff6b5f
+0	139	1666191581606139191	CMakeFiles/postfix_to_prefix.dir/main.c.o	a21e6db550ece69f
+139	179	1666191581647587339	postfix_to_prefix	d3161d9aacff6b5f
+0	142	1666192138565119004	CMakeFiles/postfix_to_prefix.dir/main.c.o	a21e6db550ece69f
+142	175	1666192138600935348	postfix_to_prefix	d3161d9aacff6b5f
+1	173	1666193353627857878	CMakeFiles/postfix_to_prefix.dir/main.c.o	a21e6db550ece69f
+173	211	1666193353667365776	postfix_to_prefix	d3161d9aacff6b5f
+1	200	1666193710145504100	CMakeFiles/postfix_to_prefix.dir/main.c.o	a21e6db550ece69f
+200	238	1666193710185309388	postfix_to_prefix	d3161d9aacff6b5f

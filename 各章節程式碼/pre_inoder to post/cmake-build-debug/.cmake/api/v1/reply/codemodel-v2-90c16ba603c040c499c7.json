@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "pre_inoder_to_post",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "pre_inoder_to_post::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pre_inoder_to_post-Debug-fd05a2460068c6b7c3aa.json",
+					"name" : "pre_inoder_to_post",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ukp66482/Desktop/data structure/\u5404\u7ae0\u7bc0\u7a0b\u5f0f\u78bc/pre_inoder to post/cmake-build-debug",
+		"source" : "/Users/ukp66482/Desktop/data structure/\u5404\u7ae0\u7bc0\u7a0b\u5f0f\u78bc/pre_inoder to post"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
